@@ -1,0 +1,264 @@
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Ext.Net.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Ext.Net.Utilities.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Transformer.NET.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\WebActivatorEx.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Ext.Net.xml
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Ext.Net.Utilities.xml
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Transformer.NET.xml
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\Jockerman\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Ext.Net.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Ext.Net.Utilities.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Transformer.NET.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\WebActivatorEx.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Ext.Net.xml
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Ext.Net.Utilities.xml
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Transformer.NET.xml
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\Giecom\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Proyecto.dll.config
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Proyecto.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Proyecto.pdb
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\csc.exe
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\csc.rsp
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\csi.exe
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\csi.rsp
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\vbc.exe
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Ext.Net.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Ext.Net.Utilities.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Transformer.NET.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\WebActivatorEx.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Ext.Net.xml
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Ext.Net.Utilities.xml
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Transformer.NET.xml
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\Users\Jockerman\Documents\GitHub\STM\CRM\STM_SAS\DMU\Software\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Proyecto.dll.config
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Proyecto.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Proyecto.pdb
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\csc.exe
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\csc.exe.config
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\csc.rsp
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\csi.exe
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\csi.exe.config
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\csi.rsp
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.Managed.Core.targets
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.AppContext.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Collections.Immutable.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Console.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.IO.Compression.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.IO.Pipes.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Reflection.Metadata.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.AccessControl.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.Claims.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Security.Principal.Windows.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.ValueTuple.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\vbc.exe
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\vbc.exe.config
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\vbc.rsp
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\roslyn\VBCSCompiler.exe.config
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Ext.Net.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Ext.Net.Utilities.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Microsoft.Web.Infrastructure.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Newtonsoft.Json.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Transformer.NET.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\WebActivatorEx.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Ext.Net.xml
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Ext.Net.Utilities.xml
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Newtonsoft.Json.xml
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Transformer.NET.xml
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+J:\Gestion conocieminto\Proyecto Final DTI\APP\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
