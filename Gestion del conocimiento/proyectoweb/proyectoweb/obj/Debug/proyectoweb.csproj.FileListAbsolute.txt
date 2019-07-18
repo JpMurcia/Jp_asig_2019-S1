@@ -1,0 +1,777 @@
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\proyectoweb.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\WebGrease.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\MySql.Data.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\MySql.Web.dll
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\Giecom_strix\Documents\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\WebGrease.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojResolveAssemblyReference.cache
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+C:\Users\invitado_giecom\Documents\GitHub\Yisus\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\WebGrease.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\proyectoweb.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MySql.Data.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MySql.Web.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\WebGrease.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\soporteMongo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MongoDB.Driver.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MongoDB.Bson.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\DnsClient.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\System.Buffers.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\soporteMongo.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MongoDB.Driver.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MongoDB.Bson.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\DnsClient.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.Web.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018_2V\proyectoweb\proyectoweb\bin\stdole.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportSource.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.Shared.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.Web.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\soporteMongo.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\stdole.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\DnsClient.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Buffers.dll
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\soporteMongo.pdb
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.xml
+C:\Users\repap\Documents\Repositorios GIT\proyecto_web_2018\proyectoweb\proyectoweb\bin\DnsClient.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\proyectoweb.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportSource.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.Shared.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.Web.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MySql.Data.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MySql.Web.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\soporteMongo.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\WebGrease.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MongoDB.Driver.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MongoDB.Bson.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\stdole.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\DnsClient.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\System.Buffers.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\soporteMongo.pdb
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MySql.Data.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MySql.Web.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MongoDB.Driver.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MongoDB.Bson.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\DnsClient.xml
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+D:\JpMurcia\Proyecto Final Web\Aplicacion\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.Shared.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.Web.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Data.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Web.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\soporteMongo.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\WebGrease.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\stdole.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\DnsClient.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Buffers.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\soporteMongo.pdb
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\DnsClient.xml
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+C:\Users\Giecom_strix\Desktop\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\proyectoweb.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\netstandard.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.AppContext.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Collections.Concurrent.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Collections.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Collections.NonGeneric.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Collections.Specialized.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.ComponentModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.ComponentModel.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Console.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Data.Common.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.Contracts.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.Debug.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.Process.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.Tools.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Diagnostics.Tracing.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Drawing.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Dynamic.Runtime.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Globalization.Calendars.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Globalization.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Globalization.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.Compression.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.IsolatedStorage.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.Pipes.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Linq.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Linq.Expressions.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Linq.Parallel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Linq.Queryable.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.Http.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.NameResolution.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.NetworkInformation.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.Ping.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.Requests.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.Security.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.Sockets.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.WebSockets.Client.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Net.WebSockets.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.ObjectModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Reflection.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Reflection.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Reflection.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Resources.Reader.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Resources.ResourceManager.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Resources.Writer.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Handles.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.InteropServices.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Numerics.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Claims.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.Principal.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Security.SecureString.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Text.Encoding.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Text.RegularExpressions.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.Overlapped.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.Tasks.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.Thread.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.ThreadPool.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Threading.Timer.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.ValueTuple.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Xml.XDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Xml.XmlSerializer.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Xml.XPath.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.Shared.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.Web.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.GridFS.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Legacy.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Data.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Web.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\WebGrease.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\stdole.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Bson.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Core.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.GridFS.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.GridFS.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Legacy.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MongoDB.Driver.Legacy.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
+C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
