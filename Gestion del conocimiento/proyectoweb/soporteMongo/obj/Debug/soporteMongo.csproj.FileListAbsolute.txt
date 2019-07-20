@@ -48,3 +48,20 @@ C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\soporteMongo\obj
 C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\soporteMongo\obj\Debug\soporteMongo.csproj.CopyComplete
 C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\soporteMongo\obj\Debug\soporteMongo.dll
 C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\soporteMongo\obj\Debug\soporteMongo.pdb
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\soporteMongo.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\soporteMongo.pdb
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\DnsClient.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\MongoDB.Bson.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\MongoDB.Driver.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\System.Buffers.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\DnsClient.xml
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\MongoDB.Bson.xml
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\MongoDB.Driver.xml
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\obj\Debug\soporteMongo.csprojAssemblyReference.cache
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\obj\Debug\soporteMongo.csproj.CoreCompileInputs.cache
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\obj\Debug\soporteMongo.csproj.CopyComplete
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\obj\Debug\soporteMongo.dll
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\soporteMongo\obj\Debug\soporteMongo.pdb
