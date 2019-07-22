@@ -1,5 +1,5 @@
-﻿using proyectoweb.Controllers;
-using proyectoweb.Models.ModeloSigepi;
+﻿//using proyectoweb.Controllers;
+using proyectoweb.Models;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -12,8 +12,11 @@ namespace proyectoweb.Views
 {
     public partial class permisos1 : System.Web.UI.Page
     {
-        Grupo_inve_semillero grupo = new Grupo_inve_semillero();
-        permisoController controlador = new permisoController();
+        //Grupo_inve_semillero grupo = new Grupo_inve_semillero();
+        // permisoController controlador = new permisoController();
+
+        area area = new area();
+        DataTable dt;
         protected void Page_Load(object sender, EventArgs e)
         {
             llenar();
@@ -21,12 +24,14 @@ namespace proyectoweb.Views
 
         void llenar() {
 
-            grupo.nombreGrupo = Session["grupo"].ToString();
+            //  grupo.nombreGrupo = Session["area"].ToString();
+            area.id_area = Session["area"].ToString();
+            dt = area.ConsultarMiembroArea(area);
 
-            DataTable dt3 = controlador.consultarmiembroController(grupo);
+            //  DataTable dt3 = controlador.consultarmiembroController(grupo);
 
 
-            RepeaterMiembro.DataSource = dt3;
+            //  RepeaterMiembro.DataSource = dt3;
             RepeaterMiembro.DataBind();
 
         }

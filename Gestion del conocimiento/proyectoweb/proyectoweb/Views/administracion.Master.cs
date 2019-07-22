@@ -1,4 +1,5 @@
-﻿using proyectoweb.Models.Modelo_viewGroup;
+﻿
+using proyectoweb.Models;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -59,7 +60,7 @@ namespace proyectoweb.Views
             // tipo_menu.pk_fk_tipo_usuario.id_tipo_usuario = Session["tipo"].ToString();
             
 
-            menuD.fk_rol = Session["tipo"].ToString();
+            menuD.id_menu = Session["tipo"].ToString();
 
             //if (Session["tipo"].ToString) {
 

@@ -13,7 +13,7 @@ namespace proyectoweb.Models.conexion
     public class Conexion
     {
 
-        public string schema = "sigepi";
+        public string schema = "gestion_conocimiento";
         public string Connection()
         {
             return ConfigurationManager.ConnectionStrings["conn"].ConnectionString;

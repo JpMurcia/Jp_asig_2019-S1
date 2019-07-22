@@ -1,5 +1,5 @@
 ﻿using proyectoweb.Models.conexion;
-using proyectoweb.Models.ModeloSigepi;
+//using proyectoweb.Models.ModeloSigepi;
 using System;
 using System.Collections.Generic;
 using System.Data;

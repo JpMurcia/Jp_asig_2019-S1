@@ -2271,18 +2271,10 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="ViewSwitcher.ascx" />
-    <Content Include="Views\Actividades.aspx" />
     <Content Include="Views\Error404.aspx" />
-    <Content Include="Views\FormularioDePagina1.aspx" />
     <Content Include="Views\login.aspx" />
-    <Content Include="Views\NoticiaNueva.aspx" />
-    <Content Include="Views\NoticiaPublicada.aspx" />
-    <Content Include="Views\PaginaPublicada.aspx" />
     <Content Include="Views\permisos.aspx" />
-    <Content Include="Views\CrearPagina.aspx" />
     <Content Include="Views\principal.aspx" />
-    <Content Include="Views\Reportes\Vista_Report.aspx" />
-    <Content Include="Views\Reportes\Vista_report_general.aspx" />
     <Content Include="Views\ViewsUser\Index.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
@@ -2308,33 +2300,28 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Controllers\ActividadController.cs" />
-    <Compile Include="Controllers\BlogControllers.cs" />
-    <Compile Include="Controllers\FormularioDepaginaController.cs" />
-    <Compile Include="Controllers\grupo.cs" />
-    <Compile Include="Controllers\indexController.cs" />
-    <Compile Include="Controllers\loginController.cs" />
-    <Compile Include="Controllers\miebro_pag_Controller.cs" />
-    <Compile Include="Controllers\NoticiaController.cs" />
-    <Compile Include="Controllers\Pagina_Heli_MasterController.cs" />
-    <Compile Include="Controllers\permisoController.cs" />
-    <Compile Include="Controllers\PermisosController.cs" />
-    <Compile Include="Controllers\PrincipalController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\actividad.cs" />
+    <Compile Include="Models\conocimiento_has_funcion.cs" />
+    <Compile Include="Models\person_has_compe.cs" />
+    <Compile Include="Models\user_udla.cs" />
+    <Compile Include="Models\tipo_documento.cs" />
+    <Compile Include="Models\persona.cs" />
+    <Compile Include="Models\perfil.cs" />
+    <Compile Include="Models\menu.cs" />
+    <Compile Include="Models\indicadores.cs" />
+    <Compile Include="Models\funciones.cs" />
+    <Compile Include="Models\departamento.cs" />
+    <Compile Include="Models\documentos.cs" />
+    <Compile Include="Models\area.cs" />
+    <Compile Include="Models\competencia.cs" />
     <Compile Include="Models\conexion\Mongodb\Acciones.cs" />
     <Compile Include="Models\conexion\conexion.cs" />
     <Compile Include="Models\conexion\conexionPropio.cs" />
     <Compile Include="Models\conexion\Parametro.cs" />
     <Compile Include="Models\conexion\Mongodb\paginaPropia.cs" />
-    <Compile Include="Models\Modelo sigepi\Grupo_inve_semillero.cs" />
-    <Compile Include="Models\Modelo sigepi\integranteGrupo.cs" />
-    <Compile Include="Models\Modelo sigepi\modelUsuario.cs" />
-    <Compile Include="Models\Modelo sigepi\proyecto.cs" />
-    <Compile Include="Models\Modelo sigepi\proyectoGrupo.cs" />
-    <Compile Include="Models\Modelo sigepi\tipoUsuario.cs" />
-    <Compile Include="Models\Modelo sigepi\UsuarioProducto.cs" />
     <Compile Include="Models\Modelo viewGroup\Actividad.cs" />
     <Compile Include="Models\Modelo viewGroup\ActividadUsuario.cs" />
     <Compile Include="Models\Modelo viewGroup\enlace.cs" />
@@ -2357,13 +2344,6 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Actividades.aspx.cs">
-      <DependentUpon>Actividades.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\Actividades.aspx.designer.cs">
-      <DependentUpon>Actividades.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\administracion.Master.cs">
       <DependentUpon>administracion.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2378,40 +2358,12 @@
     <Compile Include="Views\Error404.aspx.designer.cs">
       <DependentUpon>Error404.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\FormularioDePagina1.aspx.cs">
-      <DependentUpon>FormularioDePagina1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\FormularioDePagina1.aspx.designer.cs">
-      <DependentUpon>FormularioDePagina1.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Views\login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\NoticiaNueva.aspx.cs">
-      <DependentUpon>NoticiaNueva.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\NoticiaNueva.aspx.designer.cs">
-      <DependentUpon>NoticiaNueva.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\NoticiaPublicada.aspx.cs">
-      <DependentUpon>NoticiaPublicada.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\NoticiaPublicada.aspx.designer.cs">
-      <DependentUpon>NoticiaPublicada.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\PaginaPublicada.aspx.cs">
-      <DependentUpon>PaginaPublicada.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\PaginaPublicada.aspx.designer.cs">
-      <DependentUpon>PaginaPublicada.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\permisos.aspx.cs">
       <DependentUpon>permisos.aspx</DependentUpon>
@@ -2420,13 +2372,6 @@
     <Compile Include="Views\permisos.aspx.designer.cs">
       <DependentUpon>permisos.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\CrearPagina.aspx.cs">
-      <DependentUpon>CrearPagina.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\CrearPagina.aspx.designer.cs">
-      <DependentUpon>CrearPagina.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\principal.aspx.cs">
       <DependentUpon>principal.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2434,51 +2379,12 @@
     <Compile Include="Views\principal.aspx.designer.cs">
       <DependentUpon>principal.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\Reportes\ConjuntoReprtGeneral.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ConjuntoReprtGeneral.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Reportes\NoticasGrupoReport.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>NoticasGrupoReport.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Views\Reportes\ReportGeneral.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ReportGeneral.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Views\Reportes\reportNoticia.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Views\Reportes\Vista_Report.aspx.cs">
-      <DependentUpon>Vista_Report.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\Reportes\Vista_Report.aspx.designer.cs">
-      <DependentUpon>Vista_Report.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Reportes\Vista_report_general.aspx.cs">
-      <DependentUpon>Vista_report_general.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\Reportes\Vista_report_general.aspx.designer.cs">
-      <DependentUpon>Vista_report_general.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\ViewsUser\Index.aspx.cs">
       <DependentUpon>Index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Views\ViewsUser\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Reportes\ConjuntoDeDatos.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ConjuntoDeDatos.xsd</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -2490,28 +2396,6 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
-    <Content Include="Views\Reportes\ConjuntoDeDatos.xsc">
-      <DependentUpon>ConjuntoDeDatos.xsd</DependentUpon>
-    </Content>
-    <None Include="Views\Reportes\ConjuntoDeDatos.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>ConjuntoDeDatos.Designer.cs</LastGenOutput>
-    </None>
-    <Content Include="Views\Reportes\ConjuntoDeDatos.xss">
-      <DependentUpon>ConjuntoDeDatos.xsd</DependentUpon>
-    </Content>
-    <Content Include="Views\Reportes\ConjuntoReprtGeneral.xsc">
-      <DependentUpon>ConjuntoReprtGeneral.xsd</DependentUpon>
-    </Content>
-    <None Include="Views\Reportes\ConjuntoReprtGeneral.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>ConjuntoReprtGeneral.Designer.cs</LastGenOutput>
-    </None>
-    <Content Include="Views\Reportes\ConjuntoReprtGeneral.xss">
-      <DependentUpon>ConjuntoReprtGeneral.xsd</DependentUpon>
-    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -2521,16 +2405,6 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Views\Reportes\NoticasGrupoReport.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>NoticasGrupoReport.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Views\Reportes\ReportGeneral.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>ReportGeneral.cs</LastGenOutput>
-    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
