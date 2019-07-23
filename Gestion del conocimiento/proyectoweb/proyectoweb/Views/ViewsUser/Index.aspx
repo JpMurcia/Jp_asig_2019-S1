@@ -26,14 +26,15 @@
     <link href="../../Content/assetsLogin/css/MisEstilos.css" rel="stylesheet" />
 
 
-    <script>(function (w, d, s, l, i) {
+ <%--   <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
                 'gtm.start':
                     new Date().getTime(), event: 'gtm.js'
             }); var f = d.getElementsByTagName(s)[0],
                 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
                     '../../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NKDMSK6');</script>
+        })(window, document, 'script', 'dataLayer', 'GTM-NKDMSK6');</script>--%>
+
     <!-- End Google Tag Manager -->
 
 
@@ -110,84 +111,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="main main-raised">
 
-
-
-                <div class="section section-gray">
-                    <h1>Paginas Publicadas</h1>
-                    <div class="container">
-                        <div class="row blog">
-                            <div class="col-md-12">
-                                <div id="blogCarousel" class="carousel slide" data-ride="carousel">
-
-                                    <ol class="carousel-indicators">
-                                        <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
-                                        <!--    <li data-target="#blogCarousel" data-slide-to="1"></li> -->
-                                    </ol>
-                                    
-       
-                                    <!-- Carousel items -->
-
-                                    <div class="carousel-inner">
-
-
-                                        <div class="carousel-item active">
-                                            <div class="row">
-
-
-                                                <asp:Repeater ID="RepeaterPaginas" runat="server">
-                                                    <ItemTemplate>
-
-                                                        <div class="col-md-3">
-                                                            <a href="#">
-                                                                <div class="card card-profile" style="width: 300px; height: 400px">
-                                                                    <div class="card-header card-avatar  ">
-                                                                        <a href="../ViewsPlantillaHeli/IndexHeli.aspx">
-                                                                            <img id="ImagenGrupo" src='<%#Eval("url_logo_grupo") %>' />
-                                                                        </a>
-
-                                                                    </div>
-                                                                    <div class="card-body">
-                                                                        <h4 class="card-title">
-                                                                            <asp:Label runat="server" ID="nombre_grupo"></asp:Label>
-                                                                           <%#Eval("nom_grupo") %></h4>
-                                                                        <p>
-                                                                            <asp:Label runat="server" ID="SiglasGrupo"></asp:Label>
-                                                                            <%#Eval("siglas_signif_grupo") %>
-                                                                        </p>
-                                                                        <button type="button" class="btn btn-success mr-auto ">
-                                                                            <a href="../ViewsPlantillaHeli/IndexHeli.aspx?IdGrupo=<%#Eval("id_grupo")%>">Visitar </a>
-                                                                        </button>
-                                                                    </div>
-
-                                                                </div>
-
-                                                                <%--      <img src="../../Content/assetsLogin/img/bg10.jpg" alt="Image" style="max-width: 100%;">--%>
-                                                            </a>
-
-                                                        </div>
-                                                        <hr />
-                                                    </ItemTemplate>
-                                                </asp:Repeater>
-
-
-                                            </div>
-                                            <!--.row-->
-                                        </div>
-
-
-
-                                        <!--.item-->
-
-                                        <!--.item-->
-
-                                    </div>
-                           <!--.carousel-inner-->
-                                </div>
-                                <!--.Carousel-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
            
 
@@ -323,7 +246,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script src="../../Content/assetsLogin/demo/modernizr.js"></script>
     <script src="../../Content/assetsLogin/demo/vertical-nav.js"></script>
 
-    <script>
+
+
+ <%--   <script>
         $(document).ready(function () {
             //init DateTimePickers
             materialKit.initFormExtendedDatetimepickers();
@@ -378,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             });
 
         });
-    </script>
+    </script>--%>
 
 
 

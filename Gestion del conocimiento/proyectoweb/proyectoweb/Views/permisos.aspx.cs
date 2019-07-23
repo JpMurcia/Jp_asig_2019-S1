@@ -16,7 +16,9 @@ namespace proyectoweb.Views
         // permisoController controlador = new permisoController();
 
         area area = new area();
+        persona per = new persona();
         DataTable dt;
+        DataTable dt1;
         protected void Page_Load(object sender, EventArgs e)
         {
             llenar();
@@ -39,7 +41,11 @@ namespace proyectoweb.Views
 
         protected void Modal_Command1(object sender, CommandEventArgs e)
         {
-            //ScriptManager.RegisterStartupScript(this, this.GetType(), "popup", "$('#modal-datos').modal('show');", true);
+            ScriptManager.RegisterStartupScript(this, this.GetType(), "popup", "$('#modal-datos').modal('show');", true);
+
+
+            //ScriptManager.RegisterStartupScript(this, this.GetType(), "popup", "$('#myModal').modal('show');", true);
+
             //user1.fk_grupo = Session["id_grupo"].ToString(); ;
             //ViewState["id_user"] = e.CommandArgument.ToString();
             //nom_usaurioMostrar.Text = user.nombre;
@@ -53,6 +59,22 @@ namespace proyectoweb.Views
             //DataTable dt6 = controlador.consultarProyectoDeMiembroController(user1);
             //InnerRepeater.DataSource = dt6;
             //InnerRepeater.DataBind();
+      
+            per.id_perso = e.CommandArgument.ToString();
+            dt1 = per.consul_dato_miembro(per);
+            //Img1.Src = dt1.Rows[0]["url_foto"].ToString();
+            imagen_perfil.Src = dt1.Rows[0]["url_foto"].ToString();
+
+        }
+
+        protected void Unnamed_Command(object sender, CommandEventArgs e)
+        {
+            
+        }
+
+        protected void guardar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

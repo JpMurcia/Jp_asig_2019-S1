@@ -42,8 +42,11 @@ namespace proyectoweb.Views.ViewsUser
           //  dt = controlador.dato_pag();
          //   dt2 = controlador.dato_view_pag_web();
             dt3 = pag.consul_dato();
-            RepeaterPaginas.DataSource = dt3;
-            RepeaterPaginas.DataBind();
+
+            //RepeaterPaginas.DataSource = dt3;
+            //RepeaterPaginas.DataBind();
+
+
             string hola = "fdsf";
             //
             

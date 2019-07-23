@@ -2273,6 +2273,7 @@
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Views\Error404.aspx" />
     <Content Include="Views\login.aspx" />
+    <Content Include="Views\conocimiento.aspx" />
     <Content Include="Views\permisos.aspx" />
     <Content Include="Views\principal.aspx" />
     <Content Include="Views\ViewsUser\Index.aspx" />
@@ -2364,6 +2365,13 @@
     </Compile>
     <Compile Include="Views\login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\conocimiento.aspx.cs">
+      <DependentUpon>conocimiento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\conocimiento.aspx.designer.cs">
+      <DependentUpon>conocimiento.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\permisos.aspx.cs">
       <DependentUpon>permisos.aspx</DependentUpon>
