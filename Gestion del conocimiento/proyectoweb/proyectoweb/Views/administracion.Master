@@ -78,8 +78,8 @@
                     <ItemTemplate>
 
                         <li class="nav-item ">
-                            <a class="nav-link" href='<%#Eval("url_pagina")%>'>
-                                <i class="material-icons"><%#Eval("icono")%></i>
+                            <a class="nav-link" href='<%#Eval("url_menu")%>'>
+                                <i class="material-icons"><%#Eval("icono_menu")%></i>
                                 <p>
                                     <%#Eval("nom_menu") %>
                                 </p>
@@ -119,7 +119,7 @@
                 document.write(new Date().getFullYear())
             </script>
                             , Hecho con <i class="material-icons">favorite</i> por
-            <a href="https://www.creative-tim.com/" target="_blank">Yisus and  Jp</a> para pasar programación web.
+            <a href="https://www.creative-tim.com/" target="_blank">Norman and  Jp</a> para pasar programación web.
                         </div>
                     </div>
                 </footer>

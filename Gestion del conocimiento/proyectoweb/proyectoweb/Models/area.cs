@@ -21,7 +21,7 @@ namespace proyectoweb.Models
         {
             List<Parametro> p = new List<Parametro>();
             p.Add(new Parametro(
-                "email",
+                "id_area",
                 obj.id_area,
                 "VARCHAR",
                 ParameterDirection.Input

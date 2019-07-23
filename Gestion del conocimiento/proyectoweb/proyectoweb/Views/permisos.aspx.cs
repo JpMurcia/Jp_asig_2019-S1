@@ -31,7 +31,7 @@ namespace proyectoweb.Views
             //  DataTable dt3 = controlador.consultarmiembroController(grupo);
 
 
-            //  RepeaterMiembro.DataSource = dt3;
+              RepeaterMiembro.DataSource = dt;
             RepeaterMiembro.DataBind();
 
         }

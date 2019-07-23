@@ -14,7 +14,9 @@
                             <h4 class="card-title">Miembros</h4>
                         </div>
                         <div class="card-body">
-                            <div class="alert alert-info alert-with-icon" data-notify="container">
+
+
+<%--                            <div class="alert alert-info alert-with-icon" data-notify="container">
                                 <i class="material-icons" data-notify="icon">notifications</i>
                                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                     <i class="material-icons">close</i>
@@ -43,7 +45,7 @@
           -Consultar actividades y eventos, y realizar la entrega de los y las mismas.
             </pre>
                                 </span>
-                            </div>
+                            </div>--%>
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
@@ -121,7 +123,7 @@
                                                         <ItemTemplate>
                                                             <tr>
 
-                                                                <td><%#Eval("nom_usuario") %> </td>
+                                                                <td><%#Eval("nom_perso") %> </td>
 
 
                                                                
@@ -138,27 +140,36 @@
 
 
 
-                                                               
 
-                                                               
+
+
                                                                 <td class="td-actions text-center ">
-                                                                    <%#Eval("Programa") %>
+                                                                    <%#Eval("nom_perfil") %>
                                                                 </td>
 
-                                                                 <td class="td-actions text-center ">
-                                                                            Miembro
+                                                                <td class="td-actions text-center ">
+
+
+                                                                 <a   class=" btn btn-success"  >
+                                                                    <i class="material-icons">      </i>  </a>
+                                                                    <asp:LinkButton ID="perfil" runat="server" OnCommand="Modal_Command1"
+                                                                        CssClass="btn btn-danger" CommandArgument='<% #Eval("nom_perfil") %>'></asp:LinkButton>
+                                                  
+                                                            
+                                                          
+                                                                  
                                                                 </td>
 
-                                                                 <td class="td-actions text-right ">
-                                                                    <%#Eval("email_usuario") %>
+                                                                <td class="td-actions text-right ">
+                                                                    <%#Eval("cc_perso") %>
                                                                 </td>
                                                             </tr>
                                                         </ItemTemplate>
-                                                    </asp:Repeater>
+                                             </asp:Repeater>
 
 
 
-                                        
+
                                     </tbody>
                                 </table>
                             </div>

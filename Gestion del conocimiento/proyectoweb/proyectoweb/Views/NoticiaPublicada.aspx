@@ -35,6 +35,7 @@
                   <td><%#Eval("titulo_soporte") %></td>
                   <td><%#Eval("nom_proyecto") %></td>
                   <td><%#Eval("Fecha_publica") %></td>
+
                   <td class="td-actions text-right">
                       <a href="NoticiaNueva.aspx?Id=<%#Eval("id_soporte") %>" class="btn btn-success" ><i class="material-icons">edit</i></a>
                   <asp:LinkButton ID="EliminarNoticia" runat="server" OnCommand="EliminarNoticia_Command" CssClass="btn btn-danger" CommandArgument='<% #Eval("id_soporte") %>' >

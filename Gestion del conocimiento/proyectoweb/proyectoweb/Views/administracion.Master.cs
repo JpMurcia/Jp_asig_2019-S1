@@ -60,7 +60,11 @@ namespace proyectoweb.Views
             // tipo_menu.pk_fk_tipo_usuario.id_tipo_usuario = Session["tipo"].ToString();
             
 
-            menuD.id_menu = Session["tipo"].ToString();
+            //menuD.id_menu = Session["tipo"].ToString();
+            menuD.fk_perfil = Session["tipo"].ToString();
+            dt = menuD.consultar_menu_nom(menuD);
+
+
 
             //if (Session["tipo"].ToString) {
 
@@ -70,7 +74,7 @@ namespace proyectoweb.Views
             //Particular.Visible = false;
 
 
-            dt = menuD.consultar_menu_view(menuD);
+        //    dt = menuD.consultar_menu_view(menuD);
 
             //List<menuPadres> obj2 = new List<menuPadres>();
             //for (int i = 0; i < dt.Rows.Count; i++)
