@@ -41,10 +41,15 @@ namespace proyectoweb.Views
 
         protected void Modal_Command1(object sender, CommandEventArgs e)
         {
-            ScriptManager.RegisterStartupScript(this, this.GetType(), "popup", "$('#modal-datos').modal('show');", true);
+            //ScriptManager.RegisterStartupScript(this, this.GetType(), "popup", "$('#modal-datos').modal('show');", true);
+
+
+
+            Response.Redirect("principal.aspx");
 
 
             //ScriptManager.RegisterStartupScript(this, this.GetType(), "popup", "$('#myModal').modal('show');", true);
+
 
             //user1.fk_grupo = Session["id_grupo"].ToString(); ;
             //ViewState["id_user"] = e.CommandArgument.ToString();
@@ -59,7 +64,7 @@ namespace proyectoweb.Views
             //DataTable dt6 = controlador.consultarProyectoDeMiembroController(user1);
             //InnerRepeater.DataSource = dt6;
             //InnerRepeater.DataBind();
-      
+
             per.id_perso = e.CommandArgument.ToString();
             dt1 = per.consul_dato_miembro(per);
             //Img1.Src = dt1.Rows[0]["url_foto"].ToString();

@@ -2274,6 +2274,7 @@
     <Content Include="Views\Error404.aspx" />
     <Content Include="Views\login.aspx" />
     <Content Include="Views\conocimiento.aspx" />
+    <Content Include="Views\perfil_miembro.aspx" />
     <Content Include="Views\permisos.aspx" />
     <Content Include="Views\principal.aspx" />
     <Content Include="Views\ViewsUser\Index.aspx" />
@@ -2372,6 +2373,13 @@
     </Compile>
     <Compile Include="Views\conocimiento.aspx.designer.cs">
       <DependentUpon>conocimiento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\perfil_miembro.aspx.cs">
+      <DependentUpon>perfil_miembro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\perfil_miembro.aspx.designer.cs">
+      <DependentUpon>perfil_miembro.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\permisos.aspx.cs">
       <DependentUpon>permisos.aspx</DependentUpon>

@@ -929,3 +929,5 @@ C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyec
 C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
 C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CopyComplete
 C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
+C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\bin\MySql.Data.xml
+C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\bin\MySql.Web.xml

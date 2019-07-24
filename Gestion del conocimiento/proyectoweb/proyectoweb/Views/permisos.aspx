@@ -15,37 +15,6 @@
                         </div>
                         <div class="card-body">
 
-
-<%--                            <div class="alert alert-info alert-with-icon" data-notify="container">
-                                <i class="material-icons" data-notify="icon">notifications</i>
-                                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                                    <i class="material-icons">close</i>
-                                </button>
-                                <span data-notify="icon" class="now-ui-icons ui-1_bell-53"></span>
-                                <span data-notify="message">
-                                    <pre>
-                                  <h3>Usuario Administrador</h3> tiene acceso a:
-                                  -Publicar,editar y eliminar paginas.
-                                  -Asignar y quitar permisos de rol de administrador  a estudiantes.
-                                  -Publicar,editar y eliminar noticias.
-                                  -Publicar,editar y eliminar actividades.
-                                    </pre>
-                                </span>
-                            </div>
-
-                            <div class="alert alert-info alert-with-icon" data-notify="container">
-                                <i class="material-icons" data-notify="icon">notifications</i>
-                                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                                    <i class="material-icons">close</i>
-                                </button>
-                                <span data-notify="icon" class="now-ui-icons ui-1_bell-53"></span>
-                                <span data-notify="message">
-                                    <pre>           
-           <h3>Usuario Estudiante</h3> tiene acceso a:
-          -Consultar actividades y eventos, y realizar la entrega de los y las mismas.
-            </pre>
-                                </span>
-                            </div>--%>
                             <div class="table-responsive">
                                 <table class="table">
                                     <thead>
@@ -59,63 +28,7 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                       <%-- <tr>
-
-                                            <td class="text-center">1</td>
-                                            <td>Estudiante Cualquiera #1</td>
-                                            <td>Ingenieria de Sitemas</td>
-
-                                            <td class="text-right">
-                                                <div class="form-check form-check-inline">
-                                                    <label class="form-check-label">
-                                                        <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option2">
-                                                        <span class="form-check-sign">
-                                                            <span class="check"></span>
-                                                        </span>
-                                                    </label>
-                                                </div>
-                                            </td>
-                                            <td class="td-actions text-right">
-                                                <div class="form-check form-check-inline">
-                                                    <label class="form-check-label">
-                                                        <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option3">
-                                                        <span class="form-check-sign">
-                                                            <span class="check"></span>
-                                                        </span>
-                                                    </label>
-                                                </div>
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td class="text-center">2</td>
-                                            <td>Estudiante Cualquiera #2</td>
-                                            <td>Ingenieria de Sistemas</td>
-
-                                            <td class="text-right">
-                                                <div class="form-check form-check-inline">
-                                                    <label class="form-check-label">
-                                                        <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-                                                        <span class="form-check-sign">
-                                                            <span class="check"></span>
-                                                        </span>
-                                                    </label>
-                                                </div>
-                                            </td>
-                                            <td class="td-actions text-right">
-                                                <div class="form-check form-check-inline">
-                                                    <label class="form-check-label">
-                                                        <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3">
-                                                        <span class="form-check-sign">
-                                                            <span class="check"></span>
-                                                        </span>
-                                                    </label>
-                                                </div>
-                                            </td>
-                                           
-                                           </tr>
-                                           --%>
-
+                                       
                                              <asp:Repeater ID="RepeaterMiembro" runat="server">
                                                         <%-- 
                                                       <asp:Repeater ID="Repeater2" OnItemDataBound="RepiterItem" runat="server">--%>
@@ -129,15 +42,7 @@
                                                                
 
 
-                                                               
-
-                                                                    <%--      <asp:LinkButton  CssClass="btn btn-primary"  ID="LinkButton1"  runat="server" CommandArgument='<%# Eval("id_usuario") %>' CommandName='botoModal'  data-toggle="modal" data-target="#<%#Eval("id_usuario")%> ">
-                                                                       <i class="material-icons">edit</i>Editar
-                                                                    </asp:LinkButton>--%>
-
-                                                                    <%-- modal --%>
-
-
+                                                              
 
 
 
@@ -150,19 +55,14 @@
                                                                 <td class="td-actions text-center ">
 
 
-<%--                                                                 <a   class=" btn btn-success"  >
-                                                                    <i class="material-icons">      </i>  </a>
-                                                                    <asp:LinkButton ID="perfil" runat="server" OnCommand="Modal_Command1"
-                                                                        CssClass="btn btn-danger" CommandArgument='<% #Eval("nom_perfil") %>'></asp:LinkButton>
-                                                  
-                                                            
-                                                          --%>
 
-                                                                    
-                                                                    <asp:LinkButton CssClass="btn btn-primary" runat="server" OnCommand="Modal_Command1" CommandArgument='<%# Eval("id_perso") %>'>
+                                                                       <a href="perfil_miembro.aspx?Id=<%#Eval("id_perso") %>" class="btn btn-success" ><i class="material-icons">edit</i></a>
+
+<%--                                                                    <asp:LinkButton CssClass="btn btn-primary" runat="server" OnCommand="Modal_Command1" CommandArgument='<%# Eval("id_perso") %>'>
                                                                        <i class="material-icons">edit</i>Editar
-                                                                    </asp:LinkButton>
+                                                                    </asp:LinkButton>--%>
 
+                                                                   
                                                                  
                                                              
                                                                                                      
@@ -289,7 +189,7 @@
 
                                                          <%--       <asp:HiddenField ID="id_usuario" Value='<%#Eval("identificador")%>' runat="server" />
                                                                 <asp:HiddenField ID="ide" Value='<%#Eval("identificador")%>' runat="server" />
-                                                                <asp:HiddenField ID="tipo" Value='<%#Eval("cargo")%>' runat="server" />--%>
+                                                                <asp:HiddenField ID="tipo" Value='<%#Eval("cargo")%>' runat="server" /> --%>
                                                                 <asp:CheckBox runat="server" ID="estado" Checked="false" />
 
 
@@ -318,10 +218,37 @@
 
                                                             </label>
                                                         </div>
+
                                                     </td>
+                                                     
 
                                                 </tr>
+                                           <tr>
+                                          <td class="td-actions text-right ">
+                                                        <div class="togglebutton">
+                                                            <label>
 
+                                                         <%--       <asp:HiddenField ID="id_usuario" Value='<%#Eval("identificador")%>' runat="server" />
+                                                                <asp:HiddenField ID="ide" Value='<%#Eval("identificador")%>' runat="server" />
+                                                                <asp:HiddenField ID="tipo" Value='<%#Eval("cargo")%>' runat="server" />--%>
+                                                                <asp:CheckBox runat="server" ID="CheckBox2" Checked="true" />
+
+
+                                                            </label>
+                                                        </div>
+                                          </td>
+                                           </tr>
+                                        <tr>
+                                            <div class="form-check">
+                                                <label class="form-check-label">
+                                                    <input class="form-check-input" type="checkbox" value="">
+                                                    First Checkbox
+                    <span class="form-check-sign">
+                        <span class="check"></span>
+                    </span>
+                                                </label>
+                                            </div>
+                                        </tr>
 
                                         <%--    </ItemTemplate>
                                         </asp:Repeater>--%>
@@ -333,6 +260,9 @@
 
                             </div>
                         </div>
+
+
+
                     </div>
                     <div class="modal-body">
                     </div>
