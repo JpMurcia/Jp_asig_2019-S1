@@ -75,9 +75,9 @@ CREATE TABLE IF NOT EXISTS `competencia` (
 -- Dumping data for table gestion_conocimiento.competencia: ~8 rows (approximately)
 /*!40000 ALTER TABLE `competencia` DISABLE KEYS */;
 REPLACE INTO `competencia` (`id_compe`, `nom_compe`, `descrip_compe`, `nivel_aceptacion`) VALUES
-	(11, 'C#', NULL, 3.5),
+	(11, 'C#', 'dffdsdfsd', 3.5),
 	(12, 'Ext.Net', NULL, 3.6),
-	(13, 'Oracle', NULL, 3.5),
+	(13, 'Oracle', 'manejo ', 3.5),
 	(14, 'Mongo DB', NULL, 3.5),
 	(15, 'Mantenimiento de Computo', NULL, 2),
 	(16, 'Manejo de redes', NULL, 4.5),
@@ -330,20 +330,20 @@ CREATE TABLE IF NOT EXISTS `persona` (
   PRIMARY KEY (`id_perso`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table gestion_conocimiento.persona: ~0 rows (approximately)
+-- Dumping data for table gestion_conocimiento.persona: ~11 rows (approximately)
 /*!40000 ALTER TABLE `persona` DISABLE KEYS */;
 REPLACE INTO `persona` (`id_perso`, `nom_perso`, `cc_perso`, `fecha_naci`, `url_foto`) VALUES
-	(1, 'Daliana Carolina Rojas Torres', '00000000011', NULL, '../imagenes/imagen_perfil/anyela.jpg'),
-	(2, '	Diego Fernando Jojoa Salas', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
-	(11, '	Paola Andrea Rodriguez Betancourt ', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
-	(12, '	Angie Zuleta Cardona', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
-	(13, '	Cristian Camilo Belalcazar dorado', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
-	(14, '	Los Dti', '11', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
-	(15, '	Michelle Alejandra Penna Tibaquirá', '00000000011', NULL, '../imagenes/imagen_perfil/anyela.jpg'),
-	(16, '	Cesar Gabriel rojas chavarro', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
-	(17, '	Wilmer Castrillón', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg'),
+	(1, 'Daliana Carolina Rojas Torres', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/anyela.jpg'),
+	(2, '	Diego Fernando Jojoa Salas', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
+	(11, '	Paola Andrea Rodriguez Betancourt ', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
+	(12, '	Angie Zuleta Cardona', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
+	(13, '	Cristian Camilo Belalcazar dorado', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
+	(14, '	Los Dti', '11', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
+	(15, '	Michelle Alejandra Penna Tibaquirá', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/anyela.jpg'),
+	(16, '	Cesar Gabriel rojas chavarro', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
+	(17, '	Wilmer Castrillón', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg'),
 	(18, '	Nicol Endo Ruiz', '00000000011', '2019-07-20', '../imagenes/imagen_perfil/kamilo.jpg'),
-	(19, '	Manuel ', '00000000011', NULL, '../imagenes/imagen_perfil/kamilo.jpg');
+	(19, '	Manuel ', '00000000011', '2019-07-24', '../imagenes/imagen_perfil/kamilo.jpg');
 /*!40000 ALTER TABLE `persona` ENABLE KEYS */;
 
 -- Dumping structure for table gestion_conocimiento.persona_has_competencia
@@ -361,14 +361,14 @@ CREATE TABLE IF NOT EXISTS `persona_has_competencia` (
   CONSTRAINT `fk_Persona_has_competencia_competencia1` FOREIGN KEY (`fk_comp`) REFERENCES `competencia` (`id_compe`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table gestion_conocimiento.persona_has_competencia: ~0 rows (approximately)
+-- Dumping data for table gestion_conocimiento.persona_has_competencia: ~5 rows (approximately)
 /*!40000 ALTER TABLE `persona_has_competencia` DISABLE KEYS */;
 REPLACE INTO `persona_has_competencia` (`fk_pers`, `fk_comp`, `fecha_compe`, `nota_compete`, `verficacion`) VALUES
-	(1, 11, '2019-07-20', 3.7, NULL),
-	(1, 18, NULL, 4, NULL),
-	(2, 17, NULL, 1, NULL),
-	(16, 14, NULL, 1.3, NULL),
-	(17, 14, NULL, 3.5, NULL);
+	(1, 11, '2019-07-20', 3.7, _binary 0x31),
+	(1, 18, '2019-07-24', 4, _binary 0x32),
+	(2, 17, '2019-07-24', 1, _binary 0x31),
+	(16, 14, '2019-07-24', 1.3, _binary 0x31),
+	(17, 14, '2019-07-24', 3.5, _binary 0x31);
 /*!40000 ALTER TABLE `persona_has_competencia` ENABLE KEYS */;
 
 -- Dumping structure for table gestion_conocimiento.tipo_documento
@@ -379,7 +379,7 @@ CREATE TABLE IF NOT EXISTS `tipo_documento` (
   PRIMARY KEY (`id_tipo_docu`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table gestion_conocimiento.tipo_documento: ~0 rows (approximately)
+-- Dumping data for table gestion_conocimiento.tipo_documento: ~4 rows (approximately)
 /*!40000 ALTER TABLE `tipo_documento` DISABLE KEYS */;
 REPLACE INTO `tipo_documento` (`id_tipo_docu`, `nom_tipo_docu`) VALUES
 	(1, 'PROCEDIMIENTO'),
@@ -406,7 +406,7 @@ CREATE TABLE IF NOT EXISTS `user_udla` (
   CONSTRAINT `fk_user_Persona1` FOREIGN KEY (`fk_person`) REFERENCES `persona` (`id_perso`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table gestion_conocimiento.user_udla: ~0 rows (approximately)
+-- Dumping data for table gestion_conocimiento.user_udla: ~11 rows (approximately)
 /*!40000 ALTER TABLE `user_udla` DISABLE KEYS */;
 REPLACE INTO `user_udla` (`id_user`, `email_user`, `contra_user`, `fk_person`, `fk_perfil`, `fk_area`) VALUES
 	(1, 'user1@udla.edu.co', '123', 1, 5, 3),
@@ -427,9 +427,12 @@ DROP PROCEDURE IF EXISTS `consul_compet_miembro`;
 DELIMITER //
 CREATE DEFINER=`root`@`localhost` PROCEDURE `consul_compet_miembro`(
 	IN `id_user` INT
+
+
+
 )
 BEGIN
-SELECT c.id_compe, c.nom_compe, p.nota_compete from persona
+SELECT c.id_compe, c.nom_compe, p.nota_compete, p.verficacion, c.descrip_compe from persona
 inner JOIN persona_has_competencia p on p.fk_pers = persona.id_perso
 inner join competencia c on c.id_compe = p.fk_comp
 where persona.id_perso =  id_user;
@@ -442,10 +445,14 @@ DELIMITER //
 CREATE DEFINER=`root`@`localhost` PROCEDURE `consul_dato_miembro`(
 	IN `id_user` INT
 
+
 )
 BEGIN
 
-select persona.nom_perso, persona.url_foto,persona.cc_perso,persona.fecha_naci from persona
+select persona.nom_perso, persona.url_foto,persona.cc_perso,persona.fecha_naci,perfil.nom_perfil, area_.nom_area,user_udla.email_user from persona
+inner join user_udla on user_udla.fk_person = persona.id_perso
+inner join perfil on perfil.id_perfil = user_udla.fk_perfil
+inner join area_ on area_.id_area = user_udla.fk_area
 where id_user= persona.id_perso;
 
 END//

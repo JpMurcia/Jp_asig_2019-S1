@@ -32,5 +32,20 @@ namespace proyectoweb.Models
 
             return conect.ExecuteProcedure("consul_dato_miembro", p);
         }
+
+        public DataTable consul_compet_miembro(persona obj)
+        {
+            List<Parametro> p = new List<Parametro>();
+            p.Add(new Parametro(
+                "id_user",
+                obj.id_perso,
+                "VARCHAR",
+                ParameterDirection.Input
+                ));
+
+
+
+            return conect.ExecuteProcedure("consul_compet_miembro", p);
+        }
     }
 }

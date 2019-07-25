@@ -22,11 +22,14 @@
                                     <div class="card">
 
                                         <div class="row">
+
                                             <div class="col-md-4 ml-auto mr-auto">
+                                                <br />
                                                 <div class="fileinput fileinput-new text-center" data-provides="fileinput">
                                                     <div class="fileinput-new thumbnail img-raised">
                                                         <%-- Aqui se ubica la imagen del miembro--%>
-                                                        <img height="200" id="imagen_perfil" runat="server" src="../Content/assetsLogin/img/faces/card-profile1-square.jpg" />
+
+                                                        <img height="250" id="imagen_perfil" runat="server" src="../Content/assetsLogin/img/faces/card-profile1-square.jpg" />
                                                     </div>
                                                     <div class="fileinput-preview fileinput-exists thumbnail img-raised"></div>
                                                 </div>
@@ -40,11 +43,26 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-md-5 mr-auto">
-                                                <h5 class="info-text">Programa:  
-                                                    <asp:Label ID="programa_miembro" runat="server" />
+                                            <div class="col-md-6 mr-auto">
+                                                <h3 class="info-text">Informacion Basica 
+                                                 
+                                                </h3>
+                                                <h5>
+
+
+                                                    <asp:Label runat="server" ID="nombre"></asp:Label><br />
+                                                    <asp:Label runat="server" ID="cc"></asp:Label><br />
+                                                    <asp:Label runat="server" ID="fecha_naci"></asp:Label><br />
                                                 </h5>
-                                               
+                                                <h3 class="info-text">Informacion Laboral
+                                                 
+                                                </h3>
+                                                <h5>
+                                                    <asp:Label runat="server" ID="area1"></asp:Label><br />
+                                                    <asp:Label runat="server" ID="perfil"></asp:Label><br />
+                                                    <asp:Label runat="server" ID="email"></asp:Label><br />
+                                                </h5>
+
 
 
                                             </div>
@@ -67,17 +85,61 @@
                                             <h4 class="card-title">Conocimientos</h4>
                                         </div>
                                         <div class="card-body">
+
+                                            <div class="table-responsive">
+                                                <table class="table table-striped">
+                                                    <thead>
+                                                        <tr>
+
+
+
+                                                            <th>Conocimiento</th>
+
+                                                            <th class="text-center">Descripcion</th>
+                                                            <th class="text-center">Calificacion</th>
+                                                            
+                                                            <th class="text-right">Verificado</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="text-center">C#</td>
+                                                             <td class="text-center">descripcion                                                   </td>
+                                                            <td  class="text-center">
+                                                                <asp:TextBox runat="server" TextMode="Number" MaxLength="1"  ></asp:TextBox>
+                                                            </td>
+                                                           
+                                                            <td class="text-right">
+                                                                <div class="form-check">
+                                                                    <label class="form-check-label">
+                                                                        <input class="form-check-input" type="checkbox" value='<%# Boolean.Parse(Eval("estado").ToString()) %>'>
+                                                                        <span class="form-check-sign">
+                                                                            <span class="check"></span>
+                                                                        </span>
+                                                                    </label>
+                                                                </div>
+
+                                                            </td>
+
+
+                                                        </tr>
+
+
+                                                    </tbody>
+                                                </table>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
             </div>
-
         </div>
+
+    </div>
     </div>
 
 
