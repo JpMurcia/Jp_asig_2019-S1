@@ -18,18 +18,21 @@ namespace proyectoweb.Models
 
         public string url_ova { get; set; }
 
-        public DataTable consultargrupoModel(actividad obj)
+ 
+
+        public DataTable consul_actividad(actividad obj)
         {
             List<Parametro> p = new List<Parametro>();
             p.Add(new Parametro(
-                "nombre",
+                "nada",
                 obj.id_activi,
                 "VARCHAR",
                 ParameterDirection.Input
                 ));
 
-            return conect.ExecuteProcedure("proced_consul_grupo", p);
 
+
+            return conect.ExecuteProcedure("consul_actividad", p);
         }
 
     }

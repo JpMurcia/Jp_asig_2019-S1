@@ -97,37 +97,61 @@
 
                                                             <th class="text-center">Descripcion</th>
                                                             <th class="text-center">Calificacion</th>
-                                                            
+
                                                             <th class="text-right">Verificado</th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
-                                                        <tr>
-                                                            <td class="text-center">C#</td>
-                                                             <td class="text-center">descripcion                                                   </td>
-                                                            <td  class="text-center">
-                                                                <asp:TextBox runat="server" TextMode="Number" MaxLength="1"  ></asp:TextBox>
-                                                            </td>
-                                                           
-                                                            <td class="text-right">
-                                                                <div class="form-check">
-                                                                    <label class="form-check-label">
-                                                                        <input class="form-check-input" type="checkbox" value='<%# Boolean.Parse(Eval("estado").ToString()) %>'>
-                                                                        <span class="form-check-sign">
-                                                                            <span class="check"></span>
-                                                                        </span>
-                                                                    </label>
-                                                                </div>
-
-                                                            </td>
 
 
-                                                        </tr>
+
+                                                        <asp:Repeater ID="InnerRepeater" runat="server">
+                                                            <ItemTemplate>
+                                                                <tr>
+
+
+
+
+                                                                    <td class="text-center"><%#Eval("nom_compe")%></td>
+
+                                                                    <td class="text-center"><%#Eval("descrip_compe")%></td>
+
+                                                                    <td class="text-center">
+                                                                        <asp:TextBox runat="server" TextMode="Number" ID="nota" MaxLength="5"  Text='<%#Eval("nota_compete")%>'></asp:TextBox>
+                                                                    </td>
+
+                                                                       <td class="td-actions text-right ">
+                                                                        <div class="togglebutton">
+                                                                            <label>
+                                                                            <asp:HiddenField ID="HiddenField1" Value='<%#Eval("id_compe")%>' runat="server" />
+                                                                            <%-- <input class="form-check-input" type="checkbox" >--%>
+                                                                           
+                                                                            <asp:CheckBox runat="server" ID="estado"   Checked='<%# Boolean.Parse(Eval("estado").ToString()) %>' />
+                                                                            <%--  <input class="form-check-input" type="checkbox" value='<%# Boolean.Parse(Eval("verificacion").ToString()) %>'>--%>
+                                                                           </label>
+                                                                               
+                                                                        </div>
+                                                                    </td>
+
+
+
+                                                                </tr>
+                                                            </ItemTemplate>
+                                                        </asp:Repeater>
+                                                       
 
 
                                                     </tbody>
                                                 </table>
                                             </div>
+                                        </div>
+                                       
+                                        <br />
+                                        <div class="text-center">
+
+
+                                            <%-- <button class="btn btn-behance btn-round">round</button>--%>
+                                            <asp:Button runat="server" type="button" ID="boton" OnClick="Button_Miembro" CssClass="btn btn-warning btn-round" Text="Guardar Cambios"></asp:Button>
                                         </div>
                                     </div>
                                 </div>

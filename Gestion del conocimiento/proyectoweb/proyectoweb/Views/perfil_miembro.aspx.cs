@@ -19,9 +19,22 @@ namespace proyectoweb.Views
         persona per = new persona();
         DataTable dt;
         DataTable dt1;
+        person_has_compe enlace1= new person_has_compe();
         protected void Page_Load(object sender, EventArgs e)
         {
-            llenar();
+            if (!IsPostBack)
+            {
+
+                llenar();
+            }
+            else {
+
+            }
+
+
+
+
+              
         }
 
          public void llenar() {
@@ -39,10 +52,40 @@ namespace proyectoweb.Views
             area1.Text = dt.Rows[0]["nom_area"].ToString();
 
             //  DataTable dt3 = controlador.consultarmiembroController(grupo);
+            InnerRepeater.DataSource = dt1;
+            InnerRepeater.DataBind();
 
-
-
+            
         }
+
+
+        protected void Button_Miembro(object sender, EventArgs e)
+        {
+
+            for (int i = 0; i < InnerRepeater.Items.Count; i++)
+            {
+                // InnerRepeater.Items[i].FindControl("estado") identificador
+                // string id = ()InnerRepeater.Items[i].FindControl("estado");
+                HiddenField hf1 = (HiddenField)InnerRepeater.Items[i].FindControl("HiddenField1");//identificador 
+              //  HiddenField hf2 = (HiddenField)InnerRepeater.Items[i].FindControl("tipo");
+                CheckBox chk = (CheckBox)InnerRepeater.Items[i].FindControl("estado");
+                enlace1.fk_pers = Convert.ToString(Request.QueryString["Id"]);
+                enlace1.fk_comp = hf1.Value.ToString();
+                enlace1.verificacion = chk.Checked.ToString();
+                TextBox notaText= (TextBox)InnerRepeater.Items[i].FindControl("nota");
+                enlace1.nota_compente = notaText.Text.ToString();
+                DataTable update = enlace1.update_compet_miembro(enlace1);
+                
+                //enlace1.tipo = hf2.Value.ToString();
+                //enlace1.identificador = hf1.Value.ToString();
+                //enlace1.estado = chk.Checked.ToString();
+                //enlace1.id_user = ViewState["id_user"].ToString();
+                string hola1 = "dd";
+                //DataTable hola = controlador.update_enlace(enlace1);
+            }
+            
+        }
+
 
     }
 }
