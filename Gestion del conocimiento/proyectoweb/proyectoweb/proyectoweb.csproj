@@ -2271,6 +2271,7 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Views\Buscador.aspx" />
     <Content Include="Views\Error404.aspx" />
     <Content Include="Views\login.aspx" />
     <Content Include="Views\conocimiento.aspx" />
@@ -2353,6 +2354,13 @@
     </Compile>
     <Compile Include="Views\administracion.Master.designer.cs">
       <DependentUpon>administracion.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Buscador.aspx.cs">
+      <DependentUpon>Buscador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Buscador.aspx.designer.cs">
+      <DependentUpon>Buscador.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Error404.aspx.cs">
       <DependentUpon>Error404.aspx</DependentUpon>

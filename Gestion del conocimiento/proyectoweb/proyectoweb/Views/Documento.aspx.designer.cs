@@ -13,6 +13,15 @@ namespace proyectoweb.Views {
     public partial class Documento {
         
         /// <summary>
+        /// Control TextBox1.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        
+        /// <summary>
         /// Control FileUpload.
         /// </summary>
         /// <remarks>
@@ -22,13 +31,13 @@ namespace proyectoweb.Views {
         protected global::System.Web.UI.WebControls.FileUpload FileUpload;
         
         /// <summary>
-        /// Control DDL_tipos_d.
+        /// Control codigo.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DDL_tipos_d;
+        protected global::System.Web.UI.WebControls.TextBox codigo;
         
         /// <summary>
         /// Control DDL_activi.
@@ -40,13 +49,13 @@ namespace proyectoweb.Views {
         protected global::System.Web.UI.WebControls.DropDownList DDL_activi;
         
         /// <summary>
-        /// Control Titulo.
+        /// Control DDL_tipos_d.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Titulo;
+        protected global::System.Web.UI.WebControls.DropDownList DDL_tipos_d;
         
         /// <summary>
         /// Control LinkButton1.
