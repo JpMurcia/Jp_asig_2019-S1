@@ -68,7 +68,7 @@ namespace proyectoweb.Views
             per.id_perso = e.CommandArgument.ToString();
             dt1 = per.consul_dato_miembro(per);
             //Img1.Src = dt1.Rows[0]["url_foto"].ToString();
-            imagen_perfil.Src = dt1.Rows[0]["url_foto"].ToString();
+            //imagen_perfil.Src = dt1.Rows[0]["url_foto"].ToString();
 
         }
 

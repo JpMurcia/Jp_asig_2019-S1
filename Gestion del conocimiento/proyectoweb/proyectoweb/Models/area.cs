@@ -33,6 +33,38 @@ namespace proyectoweb.Models
             return conect.ExecuteProcedure("consul_miembro_area", p);
         }
 
+        public DataTable cosul_solicitud_corta(area obj)
+        {
+            List<Parametro> p = new List<Parametro>();
+            p.Add(new Parametro(
+                "nada",
+                obj.id_area,
+                "VARCHAR",
+                ParameterDirection.Input
+                ));
+
+
+
+
+            return conect.ExecuteProcedure("cosul_solicitud_corta", p);
+        }
+
+        public DataTable consul_solicitu_LD(area obj)
+        {
+            List<Parametro> p = new List<Parametro>();
+            p.Add(new Parametro(
+                "nada",
+                obj.id_area,
+                "VARCHAR",
+                ParameterDirection.Input
+                ));
+
+
+
+
+            return conect.ExecuteProcedure("consul_solicitu_LD", p);
+        }
+
 
     }
 }

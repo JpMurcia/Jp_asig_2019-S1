@@ -6,7 +6,7 @@
 <html lang="es" xmlns="http://www.w3.org/1999/xhtml">
 
 <head runat="server">
-    <title>ViewGroup
+    <title>Gestion De Conocimiento
 
     </title>
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container">
             <div class="navbar-translate">
 
-                <a class="navbar-brand" href="index.html">ViewGroup </a>
+                <a class="navbar-brand" href="index.html">Gestion de Conocimiento </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="sr-only">Toggle navigation</span>
@@ -91,17 +91,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <hr />
     <hr />
 
-    <div class="page-header header-filter clear-filter" data-parallax="true" id="imagenFondo" runat="server" style="background-image: url('../../Content/assetsLogin/img/bg0.jpg');">
+    <div class="page-header header-filter clear-filter" data-parallax="true" id="imagenFondo" runat="server" style="background-image: url('../../imagenes/Sala%20de%20Profesores.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
                     <div class="brand">
-                        <h1>ViewGroup
+                        <h1>Mesa de Servicio (Asignado)
 
                         </h1>
 
-                        <h3 class="title">Software para la vizualizacion de grupos de investigación
-                      de la Universidad de la Amazonia
+                        <h3 class="title">Departamento de Tecnología de información de la Universidad 
                         </h3>
                     </div>
                 </div>
@@ -119,10 +118,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
                 <div class="row">
                     <div class="col-md-5">
-                        <h2 class="title">¿Que es ViewGroup? </h2>
-                        <h5 class="description">ViewGroup es una plataforma para la gestiòn de grupos de investigaciòn en la universidad de la Amazonia, en esta plataforma
-                  los coordinadores de cada grupo pueden crear y publicar la pagina web del mismo, publicar noticias, crear actividades y demas ingresando unos pequeños datos, de esta manera cualquier
-                  persona puede buede visualizar la pagina web una vez este publicada en nuestra plataforma con solo presioar clic al boton visitar del card del grupo de investigacion.
+                        <h2 class="title">¿Que es Mesa de Servicio? </h2>
+                        <h5 class="description">Somos el punto de contacto principal mediante el 
+                            cual se resuelven las necesidades de cada estudiante, funcionario, docente o personal
+                            externo a la Universidad con el fin de contribuir al cumplimiento de los 
+                            objetivos misionales y estratégicos.
+                            <br />
+                            El  medio de comunicación entre los usuarios de la Institución y nuestros servicios
+                            tecnológicos, cuyo objetivo principal es dar solución de una manera oportuna, eficiente y de
+                            calidad a las solicitudes realizadas en relación a la dependencia del 
+                            Departamento de Tecnologías de la Información. 
                         </h5>
                         <div class="info info-horizontal">
                             <div class="icon icon-primary">
@@ -133,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p>
                                     Juan Pablo Murcia 
                     <br>
-                                    Brayane Esneider Alvarez Valencia
+                                    Norman Alfonso Basto
                     <br>
                                     2019
                                 </p>
@@ -148,9 +153,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <p>
                                     Ingenieria de sistemas
                     <br>
-                                    Programaciòn Web
+                                    Gestion del Conocimiento
                     <br>
-                                    Heriberto Rojas
+                                    Fredy Antonio Verástegui
                                 </p>
                             </div>
                         </div>
@@ -221,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             document.write(new Date().getFullYear())
         </script>
                 , Hecho con amor  <i class="material-icons">favorite</i> Por
-        <a href="https://www.creative-tim.com/" target="_blank">Yisus y JP</a> por una UDLA mejor.
+        <a href="https://www.creative-tim.com/" target="_blank">Norman y JP</a> por una UDLA mejor.
             </div>
         </div>
     </footer>

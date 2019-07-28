@@ -69,6 +69,9 @@
     </Reference>
     <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="MySql.Web, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -103,9 +106,6 @@
     </Reference>
     <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
       <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
@@ -2195,6 +2195,7 @@
     <Content Include="imagenes\imagen_perfil\kamilo.jpg" />
     <Content Include="imagenes\imagen_perfil\micht.jpg" />
     <Content Include="imagenes\imagen_perfil\yisus.jpg" />
+    <Content Include="imagenes\Sala de Profesores.jpg" />
     <Content Include="imagenes\semilleros\hola.docx" />
     <Content Include="Content\documentacion\Actualizar_permizos.bpm" />
     <Content Include="Content\documentacion\Manual de usuario.docx" />
@@ -2235,6 +2236,9 @@
     <Content Include="imagenes\semilleros\quimica.PNG" />
     <Content Include="imagenes\semilleros\sara.jpg" />
     <Content Include="imagenes\semilleros\semillero_programacion.png" />
+    <Content Include="imagenes\UA-MIN-07.png" />
+    <Content Include="imagenes\Uniamazonia-Sede-Porvenir-640x424.jpg" />
+    <Content Include="imagenes\u_de_la_amazonia_01.jpg" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -2309,6 +2313,7 @@
     </Compile>
     <Compile Include="Models\actividad.cs" />
     <Compile Include="Models\conocimiento_has_funcion.cs" />
+    <Compile Include="Models\JsonLD.cs" />
     <Compile Include="Models\person_has_compe.cs" />
     <Compile Include="Models\user_udla.cs" />
     <Compile Include="Models\tipo_documento.cs" />

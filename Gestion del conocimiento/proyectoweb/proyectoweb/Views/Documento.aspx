@@ -10,9 +10,9 @@
                     <div class="card">
                         <div class="card-header card-header-rose card-header-icon">
                             <div class="card-icon">
-                                <i class="material-icons">face</i>
+                                <i class="material-icons">assignment</i>
                             </div>
-                            <h4 class="card-title">Miembros</h4>
+                            <h4 class="card-title">Subir Documentos</h4>
                         </div>
                         <div class="card-body">
 

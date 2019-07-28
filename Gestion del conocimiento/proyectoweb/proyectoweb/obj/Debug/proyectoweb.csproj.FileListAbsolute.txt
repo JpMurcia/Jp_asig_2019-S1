@@ -775,7 +775,6 @@ C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\
 C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
 C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
 C:\Users\Usuario\Documents\GitHub\proyecto_web_2018\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
-C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
 C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csproj.CoreCompileInputs.cache
 C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.dll
 C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.pdb
@@ -931,3 +930,4 @@ C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyec
 C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache
 C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\bin\MySql.Data.xml
 C:\Users\Giecom\Documents\GitHub\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\bin\MySql.Web.xml
+C:\Users\Rococo\Documents\Github\Jp_asig_2019-S1\Gestion del conocimiento\proyectoweb\proyectoweb\obj\Debug\proyectoweb.csprojAssemblyReference.cache

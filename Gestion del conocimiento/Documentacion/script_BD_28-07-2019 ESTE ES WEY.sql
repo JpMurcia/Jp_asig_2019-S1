@@ -81,7 +81,7 @@ DROP TABLE IF EXISTS `competencia`;
 CREATE TABLE IF NOT EXISTS `competencia` (
   `id_compe` int(11) NOT NULL,
   `nom_compe` varchar(45) DEFAULT NULL,
-  `descrip_compe` varchar(45) DEFAULT NULL,
+  `descrip_compe` varchar(450) DEFAULT NULL,
   `nivel_aceptacion` double DEFAULT NULL,
   PRIMARY KEY (`id_compe`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -89,14 +89,14 @@ CREATE TABLE IF NOT EXISTS `competencia` (
 -- Volcando datos para la tabla gestion_conocimiento.competencia: ~8 rows (aproximadamente)
 /*!40000 ALTER TABLE `competencia` DISABLE KEYS */;
 REPLACE INTO `competencia` (`id_compe`, `nom_compe`, `descrip_compe`, `nivel_aceptacion`) VALUES
-	(11, 'C#', 'dffdsdfsd', 3.5),
-	(12, 'Ext.Net', NULL, 3.6),
+	(11, 'C#', 'Manejo medio y avanzado del leguaje de programacion C#', 3.5),
+	(12, 'Ext.Net', 'Conocimiento y Manejo del Framework', 3.6),
 	(13, 'Oracle', 'manejo ', 3.5),
 	(14, 'Mongo DB', NULL, 3.5),
 	(15, 'Mantenimiento de Computo', NULL, 2),
 	(16, 'Manejo de redes', NULL, 4.5),
 	(17, 'Manejo de Scrum', NULL, 4),
-	(18, 'Atención al cliente', NULL, 4.2);
+	(18, 'Atención al cliente', 'Responder con amabilidad a las personas atendidas', 4.2);
 /*!40000 ALTER TABLE `competencia` ENABLE KEYS */;
 
 -- Volcando estructura para tabla gestion_conocimiento.conocimiento_para_funcion
@@ -735,6 +735,33 @@ select persona.nom_perso, user_udla.email_user, persona.id_perso, perfil.nom_per
 END//
 DELIMITER ;
 
+-- Volcando estructura para procedimiento gestion_conocimiento.consul_solicitu_LD
+DROP PROCEDURE IF EXISTS `consul_solicitu_LD`;
+DELIMITER //
+CREATE DEFINER=`root`@`localhost` PROCEDURE `consul_solicitu_LD`(
+	IN `nada` INT
+
+
+
+)
+BEGIN
+
+select mesa_categoria.nom_categoria, 
+solicitud_mesa.descrip_solicit,
+solicitud_mesa.fecha_inicion,
+solicitante.nom_perso,
+solicitud_mesa.fecha_final,
+solicitud_mesa.calificacion,
+responsable.nom_perso as responsable from persona as solicitante
+INNER join user_udla u1 on u1.fk_person = solicitante.id_perso
+inner join solicitud_mesa on solicitud_mesa.fk_solicitante_user=u1.id_user
+inner join mesa_categoria on mesa_categoria.id_categoria=solicitud_mesa.fk_categoria_mesa
+inner join  user_udla u2 on u2.id_user=solicitud_mesa.fk_responsable_user
+inner join persona responsable on responsable.id_perso=u2.fk_person;
+
+END//
+DELIMITER ;
+
 -- Volcando estructura para procedimiento gestion_conocimiento.consul_tipo_docu
 DROP PROCEDURE IF EXISTS `consul_tipo_docu`;
 DELIMITER //
@@ -778,6 +805,22 @@ else
  	
 	  
  	end if;
+
+END//
+DELIMITER ;
+
+-- Volcando estructura para procedimiento gestion_conocimiento.cosul_solicitud_corta
+DROP PROCEDURE IF EXISTS `cosul_solicitud_corta`;
+DELIMITER //
+CREATE DEFINER=`root`@`localhost` PROCEDURE `cosul_solicitud_corta`(
+	IN `nada` INT
+
+)
+BEGIN
+select prioridad.nom_prioridad, departamento.nom_departa, tipo_solicitud_mesa.nom_tipo , solicitud_mesa.descrip_solicit from solicitud_mesa
+inner join tipo_solicitud_mesa on tipo_solicitud_mesa.id_tipo_mesa=solicitud_mesa.fk_tipo_mesa
+inner join departamento on departamento.id_departa= solicitud_mesa.fk_lugar_mesa
+inner join prioridad on prioridad.id_prioridad = solicitud_mesa.tipo_prioridad;
 
 END//
 DELIMITER ;

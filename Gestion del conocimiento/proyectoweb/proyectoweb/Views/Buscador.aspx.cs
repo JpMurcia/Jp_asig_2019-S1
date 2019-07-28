@@ -8,6 +8,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Newtonsoft.Json;
+
 
 namespace proyectoweb.Views
 {
@@ -18,6 +20,12 @@ namespace proyectoweb.Views
 
         // area area = new area();
 
+        JsonLD Jason = new JsonLD();
+        area area = new area();
+       
+        DataTable dt;
+        DataTable dt2;
+        object json;
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -29,8 +37,15 @@ namespace proyectoweb.Views
             {
 
             }
+            area.id_area = Session["area"].ToString();
+            dt = area.cosul_solicitud_corta(area);
+            dt2 = area.consul_solicitu_LD(area);
+         //   Jason = Jason.crearJson(dt2);
+            //  DataTable dt3 = controlador.consultarmiembroController(grupo);
+            
 
-
+            RepeaterMiembro.DataSource = dt;
+            RepeaterMiembro.DataBind();
 
         }
        

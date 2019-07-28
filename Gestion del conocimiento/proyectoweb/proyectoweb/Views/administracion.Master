@@ -23,8 +23,8 @@
 <body>
     <form runat="server">
     <div class="wrapper ">
-
-        <div class="sidebar" data-color="green" data-background-color="black" data-image="../assets/img/sidebar-1.jpg">
+   <%-- black --%>
+        <div class="sidebar" data-color="purple" data-background-color="green" data-image="">
             <!--
         Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
 
@@ -34,7 +34,7 @@
             <div class="col-md-8 ml-auto mr-auto">
                 <div class="logo ">
                     <a href="principal.aspx" class="simple-text logo-normal">
-                        <img src="../Content/assetsLogin/img/bg0.jpg" height="100" width="150" />
+                        <img src="../imagenes/UA-MIN-07.png" height="150" width="150" />
                     </a>
 
                     <a href="principal.aspx" class="simple-text logo-mini"></a>
@@ -119,7 +119,7 @@
                 document.write(new Date().getFullYear())
             </script>
                             , Hecho con <i class="material-icons">favorite</i> por
-            <a href="https://www.creative-tim.com/" target="_blank">Norman and  Jp</a> para pasar programación web.
+            <a href="https://www.creative-tim.com/" target="_blank">Norman and  Jp</a> para pasar Gestion del Conocimiento
                         </div>
                     </div>
                 </footer>
