@@ -1,15 +1,18 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Web;
+using Newtonsoft.Json;
+using System.IO;
 
 namespace proyectoweb.Models
 {
     public class JsonLD
     {
    
-        public string @contexto { get; set; }
+        public string @context { get; set; }
         public string @type { get; set; }
         public mainEntity mainEntity { get; set; }
         public acceptedAnswer acceptedAnswe { get; set; }
@@ -18,24 +21,72 @@ namespace proyectoweb.Models
 
         public JsonLD crearJson(DataTable obj) {
             JsonLD data = new JsonLD();
-            for (int i = 0; i < obj.Rows.Count; i++) {
-                data.@contexto = "https://schema.org";
+            mainEntity data2 = new mainEntity();
+            author data3 = new author();
+            acceptedAnswer data4 = new acceptedAnswer();
+            author data5 = new author();
+ 
+            for (int i = 0; i < obj.Rows.Count; i++)
+            {
+                data.@context = "https://schema.org";
                 data.@type = "QAPage";
-                data.mainEntity.type = "Question";
-                data.mainEntity.name = obj.Rows[i]["nom_categoria"].ToString();
-                data.mainEntity.text = obj.Rows[i]["descrip_solicit"].ToString();
-                data.mainEntity.dateCreated = obj.Rows[i]["fecha_inicion"].ToString();
-                data.mainEntity.author.@type = "Person";
-                data.mainEntity.author.name = obj.Rows[i]["nom_perso"].ToString();
-                data.acceptedAnswe.type = "Answer";
-                data.acceptedAnswe.dateCreated= obj.Rows[i]["fecha_final"].ToString();
-                data.acceptedAnswe.upvoteCount = obj.Rows[i]["calificacion"].ToString();
-                data.acceptedAnswe.author.@type = "Person";
-                data.acceptedAnswe.author.name = obj.Rows[i]["responsable"].ToString();
+                data2.type = "Question";
+                data2.name = obj.Rows[i]["nom_categoria"].ToString();
+                data2.text = obj.Rows[i]["descrip_solicit"].ToString();
+                data2.dateCreated = obj.Rows[i]["fecha_inicion"].ToString();
+                data3.@type = "Person";
+                data3.name = obj.Rows[i]["nom_perso"].ToString();
+                data4.type = "Answer";
+                data4.dateCreated = obj.Rows[i]["fecha_final"].ToString();
+                data4.upvoteCount = obj.Rows[i]["calificacion"].ToString();
+                data5.@type = "Person";
+                data5.name = obj.Rows[i]["responsable"].ToString();
 
             }
+            data4.author = data5;
+            data2.author = data3;
+            data.mainEntity = data2;
+            data.acceptedAnswe = data4;
+
             return data;}
+
+
+
+
+
+
+
     }
+
+    public class Basedatos<T>
+    {
+        public List<T> valores = new List<T>();
+        public string ruta;
+
+        public void guardar() {
+
+            string texto = JsonConvert.SerializeObject(valores);
+            File.WriteAllText(ruta,texto);
+
+        }
+
+        public void cargar()
+        {
+            string archivo = File.ReadAllText(ruta);
+            valores = JsonConvert.DeserializeObject<List<T>>(archivo);
+
+
+        }
+        public void Insertar(T nuevo)
+        {
+            valores.Add(nuevo);
+            guardar();
+        }
+
+
+    }
+
+
 
 
 

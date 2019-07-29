@@ -20,12 +20,13 @@ namespace proyectoweb.Views
 
         // area area = new area();
 
-        JsonLD Jason = new JsonLD();
-        area area = new area();
+      
        
         DataTable dt;
         DataTable dt2;
         object json;
+        JsonLD Jason = new JsonLD();
+        area area = new area();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -40,9 +41,13 @@ namespace proyectoweb.Views
             area.id_area = Session["area"].ToString();
             dt = area.cosul_solicitud_corta(area);
             dt2 = area.consul_solicitu_LD(area);
-         //   Jason = Jason.crearJson(dt2);
-            //  DataTable dt3 = controlador.consultarmiembroController(grupo);
-            
+
+
+            Jason = Jason.crearJson(dt2);
+     
+            json = Jason;
+            json = JsonConvert.SerializeObject(json);
+           
 
             RepeaterMiembro.DataSource = dt;
             RepeaterMiembro.DataBind();
